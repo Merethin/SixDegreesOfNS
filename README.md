@@ -3,6 +3,8 @@ Source code for https://www.nationstates.net/page=dispatch/id=2639438
 
 # Setup
 
+Make sure your Python version is at least 3.12.
+
 Install required packages:
 `pip install -r requirements.txt`
 
